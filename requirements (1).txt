@@ -1,0 +1,16 @@
+streamlit
+langchain-openai
+langchain
+ipykernel
+python-dotenv
+langchain_community
+langchain_core
+openai
+langchain-groq
+ollama
+pypdf
+langchain.text-splitters
+langchain_huggingface
+faiss-cpu
+langchain_chroma
+
